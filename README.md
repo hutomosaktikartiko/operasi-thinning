@@ -9,3 +9,4 @@ Installed python (here using 3.8.3)
 if you are using cmd type `python main.py` to run this project
 
 ## Implement Results:
+![Results](https://user-images.githubusercontent.com/51199036/94669660-bb952680-033b-11eb-8443-0fbb1961b95f.png)
