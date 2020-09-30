@@ -13,6 +13,9 @@ cv2.imshow('original image',img)
 # Menampilkan gambar hasil thinned
 cv2.imshow('thinned image',thinned_image)
 
+# Mennyimpan Image
+cv2.imwrite('save_image/save_image.png',thinned_image)
+
 # Menunda Windows terdestroy
 cv2.waitKey(0)
 
